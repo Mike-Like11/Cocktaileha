@@ -11,6 +11,14 @@ Android-приложение «Cocktaileha» – приложение для п�
 
 
 
+https://user-images.githubusercontent.com/57439449/216075872-7cc7736a-0ffd-4ec4-940b-e0d528a8d85e.mp4
+
+
+
+
+
+
+
 
 
 
@@ -39,7 +47,9 @@ Android-приложение «Cocktaileha» – приложение для п�
 - Landscript-Fresco
 
 
-## Скриншоты реализации клиентской части
+## Скриншоты реализации
+<img width="300" src="https://user-images.githubusercontent.com/57439449/216076408-6a57bf94-322b-4370-ad4e-8254306db470.png"/>
+<img width="300" src="https://user-images.githubusercontent.com/57439449/216077014-9efcc301-3773-44bb-93dd-fe29d1b4f87a.png"/>
 
 
 
